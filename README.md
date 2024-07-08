@@ -31,11 +31,11 @@ Takım 98
 
 ## Hedef Kitle
 
--Öğrenciler: Matematik, mühendislik, finans ve diğer bilim dallarında eğitim gören lise ve üniversite öğrencileri.
--Eğitimciler: Matematik ve fen bilimleri öğretmenleri, öğretim görevlileri ve özel ders veren eğitmenler.
--Profesyoneller: Mühendisler, finans analistleri, veri bilimcileri, araştırmacılar ve diğer hesaplama gerektiren mesleklerde çalışan profesyoneller.
--Genel Kullanıcılar: Günlük hayatta çeşitli hesaplama ihtiyaçları olan herkes.
--Teknoloji Meraklıları: Yeni teknolojilere ve uygulamalara ilgi duyan, yapay zeka ve mobil uygulamaları keşfetmeyi seven bireyler.
+-  Öğrenciler: Matematik, mühendislik, finans ve diğer bilim dallarında eğitim gören lise ve üniversite öğrencileri.
+-  Eğitimciler: Matematik ve fen bilimleri öğretmenleri, öğretim görevlileri ve özel ders veren eğitmenler.
+-  Profesyoneller: Mühendisler, finans analistleri, veri bilimcileri, araştırmacılar ve diğer hesaplama gerektiren mesleklerde çalışan profesyoneller.
+-  Genel Kullanıcılar: Günlük hayatta çeşitli hesaplama ihtiyaçları olan herkes.
+-  Teknoloji Meraklıları: Yeni teknolojilere ve uygulamalara ilgi duyan, yapay zeka ve mobil uygulamaları keşfetmeyi seven bireyler.
 
 ---
 
