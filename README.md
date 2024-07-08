@@ -37,9 +37,6 @@ Takım 98
 -Genel Kullanıcılar: Günlük hayatta çeşitli hesaplama ihtiyaçları olan herkes.
 -Teknoloji Meraklıları: Yeni teknolojilere ve uygulamalara ilgi duyan, yapay zeka ve mobil uygulamaları keşfetmeyi seven bireyler.
 
-## Product Backlog URL
-?
-
 ---
 
 # Sprint 1
