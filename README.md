@@ -15,7 +15,7 @@ Takım 98
 
 ## Ürün İsmi
 
---ThinkMath--
+*ThinkMath*
 
 ## Ürün Açıklaması
 
@@ -23,11 +23,11 @@ Takım 98
 
 ## Ürün Özellikleri
 
--Karmaşık matematik işlemlerini hızlı ve doğru bir şekilde çözebilme yeteneği.
--İleri düzey algoritmalarla desteklenen akıllı hesaplama özellikleri.
--Kullanıcı dostu arayüzü ile kolay erişim ve kullanım sağlar.
--İş, okul ve günlük yaşam için geniş kullanım alanı sunar.
--Anlık ve hassas sonuçlar verir, hesaplamalarınızı güvenle yapmanızı sağlar.
+-  Karmaşık matematik işlemlerini hızlı ve doğru bir şekilde çözebilme yeteneği.
+-  İleri düzey algoritmalarla desteklenen akıllı hesaplama özellikleri.
+-  Kullanıcı dostu arayüzü ile kolay erişim ve kullanım sağlar.
+-  İş, okul ve günlük yaşam için geniş kullanım alanı sunar.
+-  Anlık ve hassas sonuçlar verir, hesaplamalarınızı güvenle yapmanızı sağlar.
 
 ## Hedef Kitle
 
