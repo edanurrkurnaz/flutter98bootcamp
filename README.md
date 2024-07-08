@@ -51,9 +51,10 @@ Takım 98
 - **Ürün Durumu**: Ürün için henüz karara varılamamıştır. Temel anlamda fikir değerlendirilmesi yapılmış olup bir sonraki toplantıda nihai karara varılacaktır.
 
 
-- **Sprint Review**: 
-Alınan kararlar: Mevcut fikir için araştırma yapılacak.
-  Yeni fikirler üzerine toplantı gerçekleştirilecek ve hangi ürün üzerinden devam edileceğinin kararı verilecek.
+- **Sprint Review**:
+  
+-  Alınan kararlar: Mevcut fikir için araştırma yapılacak.
+-  Yeni fikirler üzerine toplantı gerçekleştirilecek ve hangi ürün üzerinden devam edileceğinin kararı verilecek.
   
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
