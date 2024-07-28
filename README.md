@@ -73,4 +73,27 @@ Takım 98
 
 # Sprint 3
 
+- **Sprint Notları**: 28.07.2024 Tarihinde google meet üzerinden istişare toplantısı yapıldı ve akabinde uygulama geliştirme yapıldı. uygulamanın içeriğine çalışıldı ve hedef kitle için neler ekleneceği üzerine eklemeler yapıldı. Mevcut imkanlar ve mesleki yetkinlikler çerçevesinde uygulamada geliştirmeler yapıldı. Güncelleme yapılacak konular belirlendi. Ürün teslimi için akademinin istediği maddeler üzerine çalışmalara başlandı. Uygulama ile ilgili ek geliştirmeler yapıldı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: Henüz belirlenmemiştir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp üzerinden devam etti.
+
+
+- **Ürün Durumu**: Ürün ilk kullanıcıya hazır hale getirildi. Logo tasarımı devam etmektedir. Güncelleme yapılacak durumlar mevcuttur.
+
+- **Sprint Review**:
+  
+  - Logo tasarımı konusunda çalışmalara devam edilecek.
+
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/1.jpeg)
+  
+- **Sprint Retrospective:**
+  - Uygulamanın videosu youtube a yüklenecek.
+  - Raporlar düzenlenecek
+  - sunum hazırlanacak
+  - logo uygulamanın amacına uygun bir şekilde hazırlanacak ve bu konuda fikirler sunulacak
+
+-**Diğer Notlar**:
+- 
 ---
