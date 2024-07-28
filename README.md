@@ -86,12 +86,12 @@ Takım 98
   
   - Logo tasarımı konusunda çalışmalara devam edilecek.
 
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/1.jpeg)
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/2.jpeg)
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/3.jpeg)
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/4.jpeg)
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/5.jpeg)
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/6.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/1.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/2.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/3.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/4.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/5.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/6.jpeg)
   
 - **Sprint Retrospective:**
   - Uygulamanın videosu youtube a yüklenecek.
