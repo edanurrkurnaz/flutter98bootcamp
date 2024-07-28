@@ -99,6 +99,10 @@ Takım 98
   - sunum hazırlanacak
   - logo uygulamanın amacına uygun bir şekilde hazırlanacak ve bu konuda fikirler sunulacak
 
--**Diğer Notlar**:
+-  **Used Technologies**
+  - [x] `flutter`
+  - [x] ` http: ^0.13.3`
+  - [x] ` confetti: ^0.7.0`
+
 - 
 ---
