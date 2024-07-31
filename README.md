@@ -125,3 +125,10 @@ Tarihsel Veri Analizi:
 **Görsel Tanıma**:Kullanıcılar, el yazısıyla yazılmış matematiksel ifadeleri veya sembolleri tarayarak AI'ın bunları tanıyıp çözmesini sağlayabilir.
 
 **Kişisel Öğrenme Asistanı**: Uygulama, kullanıcıların zayıf olduğu matematik konularını tespit ederek bu konularda eğitim materyalleri veya pratik yapmalarını sağlayacak önerilerde bulunabilir.
+
+
+-**Diğer Notlar**:2 
+
+Logo çalışması yapıldı, uygulamaya uygun logo seçildi.
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/8.jpeg)
+
