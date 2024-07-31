@@ -19,7 +19,7 @@ Takım 98
 
 ## Ürün Açıklaması
 
-- ThinkMath ile yapay zeka destekli yeni nesil bir hesap makinesi geliştiriyoruz.ThinkMath, karmaşık matematik işlemlerini kolaylıkla çözen son teknolojiye sahip bir hesap makinesidir. İş, okul veya günlük hayatta kullanabileceğiniz bu uygulama, hızlı ve doğru sonuçlar sunar. ThinkMath ile her hesaplama işinizde verimlilik ve doğruluğu bir arada yaşayın.  .
+- ThinkMath ile yapay zeka destekli yeni nesil bir hesap makinesi geliştiriyoruz.ThinkMath, karmaşık matematik işlemlerini kolaylıkla çözen son teknolojiye sahip bir hesap makinesidir. İş, okul veya günlük hayatta kullanabileceğiniz bu uygulama, hızlı ve doğru sonuçlar sunar. ThinkMath ile her hesaplama işinizde verimlilik ve doğruluğu bir arada yaşayın.  
 
 ## Ürün Özellikleri
 
@@ -75,7 +75,11 @@ Takım 98
 
 - **Sprint Notları**: 28.07.2024 Tarihinde google meet üzerinden istişare toplantısı yapıldı ve akabinde uygulama geliştirme yapıldı. uygulamanın içeriğine çalışıldı ve hedef kitle için neler ekleneceği üzerine eklemeler yapıldı. Mevcut imkanlar ve mesleki yetkinlikler çerçevesinde uygulamada geliştirmeler yapıldı. Güncelleme yapılacak konular belirlendi. Ürün teslimi için akademinin istediği maddeler üzerine çalışmalara başlandı. Uygulama ile ilgili ek geliştirmeler yapıldı.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: Henüz belirlenmemiştir.
+- Uygulamanın konusu değiştirildi.
+
+ * Projenin konusu: ThinkMath, matematiksel hesaplamaları ve günlük hayatı kolaylaştırmayı amaçlayan bir Flutter uygulamasıdır. Uygulama, birim dönüştürme (örneğin, metre gibi), tarih bazlı bilgileri Wikipedia'dan çekme, döviz kurları arasında dönüşüm yapma ve çeşitli hesaplamalar gerçekleştirme özelliklerine sahiptir. Kullanıcı dostu bir arayüzle tüm bu işlevleri tek bir platformda sunarak, kullanıcıların ihtiyaçlarına pratik çözümler sunmayı hedefler.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**💯
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp üzerinden devam etti.
 
@@ -96,7 +100,7 @@ Takım 98
 - **Sprint Retrospective:**
   - Uygulamanın videosu youtube a yüklenecek.
   - Raporlar düzenlenecek
-  - sunum hazırlanacak
+  - Sunum hazırlanacak
   - logo uygulamanın amacına uygun bir şekilde hazırlanacak ve bu konuda fikirler sunulacak
 
 -  **Used Technologies**
@@ -104,5 +108,18 @@ Takım 98
   - [x] ` http: ^0.13.3`
   - [x] ` confetti: ^0.7.0`
 
-- 
----
+-**Diğer Notlar**:
+"ThinkMath" uygulamanıza yapay zeka (AI) ile ekleyebileceğimiz geliştirme aşamasında olan başlıklar
+
+**Matematik Problemi Çözme**: Kullanıcıların girdikleri matematik problemlerini çözebilecek bir yapay zeka modeli entegre edebilirsiniz. Bu, özellikle karmaşık denklemler veya grafiksel analizler için faydalı olabilir.
+
+**Doğal Dil İşleme (NLP) ile Soru Cevaplama**: Kullanıcılar, matematikle ilgili soruları doğal dilde sorabilir ve AI, sorularını anlayıp yanıtlayabilir. Örneğin, "2020 yılında dolar kuru neydi?" gibi soruları cevaplayabilir.
+
+**Öneri Sistemleri**: Kullanıcıların geçmiş aktivitelerine dayalı olarak birim dönüştürme, hesaplama veya tarih sorgulama önerileri sunabilir. Bu, kullanıcı deneyimini kişiselleştirir.
+Tarihsel Veri Analizi:
+
+**Tarihsel verilere dayalı trend analizi veya öngörüler sağlayabilir**. Örneğin, geçmiş döviz kurları üzerinden gelecekteki olası dalgalanmalar hakkında bilgi verebilir.
+
+**Görsel Tanıma**:Kullanıcılar, el yazısıyla yazılmış matematiksel ifadeleri veya sembolleri tarayarak AI'ın bunları tanıyıp çözmesini sağlayabilir.
+
+**Kişisel Öğrenme Asistanı**: Uygulama, kullanıcıların zayıf olduğu matematik konularını tespit ederek bu konularda eğitim materyalleri veya pratik yapmalarını sağlayacak önerilerde bulunabilir.
