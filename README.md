@@ -130,5 +130,5 @@ Tarihsel Veri Analizi:
 -**Diğer Notlar**:2 
 
 Logo çalışması yapıldı, uygulamaya uygun logo seçildi.
-![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/8.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/8.png)
 
