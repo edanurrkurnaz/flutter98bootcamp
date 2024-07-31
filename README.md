@@ -96,6 +96,9 @@ Takım 98
 ![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/4.jpeg)
 ![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/5.jpeg)
 ![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/6.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/7.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/8.jpeg)
+![Sample Screenshot](https://github.com/edanurrkurnaz/flutter98bootcamp/blob/main/9.jpeg)
   
 - **Sprint Retrospective:**
   - Uygulamanın videosu youtube a yüklenecek.
